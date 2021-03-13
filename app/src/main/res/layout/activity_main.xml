@@ -22,5 +22,13 @@
         android:textSize="55sp"
         android:visibility="invisible"/>
 
+    <ImageView
+        android:id="@+id/AddButton"
+        android:layout_width="60dp"
+        android:layout_height="70dp"
+        android:layout_marginLeft="300dp"
+        android:layout_marginTop="620dp"
+        android:src="@drawable/plus_icon" />
+
 
 </RelativeLayout>
