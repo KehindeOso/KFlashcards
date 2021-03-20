@@ -55,7 +55,7 @@ FlashCard App
 
 ### App Walk-though
 
-<img src="https://media.giphy.com/media/vJq1gVdV4PvA9hEvfp/giphy.gif" width=200><br>
+<img src="https://media.giphy.com/media/EtpIQ3t9HUJip0EgBG/giphy.gif" width=200><br>
 
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
